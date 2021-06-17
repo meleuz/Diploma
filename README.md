@@ -20,7 +20,7 @@
 
 #### Работа с базой данных MySQl
 
-1. 'docker-compose up -d' - *запуск контейнеров*
+1. 'docker-compose up ' - *запуск контейнеров*
    
 2. 'java -jar ./artifacts/aqa-shop.jar' - *запуск приложения*
    
@@ -30,7 +30,7 @@
 
 #### Работа с базой данных PostgreSQL
 
-1. 'docker-compose up -d' - *запуск контейнеров*
+1. 'docker-compose up ' - *запуск контейнеров*
    
 2. 'java -jar ./artifacts/aqa-shop.jar --spring.datasource.url=jdbc:postgresql://localhost:5432/app' - *запуск приложения*
 
