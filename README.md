@@ -13,6 +13,7 @@
 ## Документация:
 
 [План автоматизации](https://github.com/meleuz/Diploma/blob/master/Plan.md)
+
 [Отчет о тестировании](https://github.com/meleuz/Diploma/blob/master/Report.md)
 
 ### Запуск тестов:
