@@ -1,13 +1,13 @@
 version: '3.7'
 services:
   node:
-    image: node:16-alpine
+    image: node:lts-alpine3.12
     user: "node"
     ports:
       - '9999:9999'
-    working_dir: /home/node/app
+    working_dir: /opt/app
     volumes:
-      - ./gate-simulator/:/home/node/app
+      - ./gate-simulator/:/opt/app
     command: "npm start"
 
   mysql:
