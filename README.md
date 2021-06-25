@@ -16,6 +16,8 @@
 
 [Отчет о тестировании](https://github.com/meleuz/Diploma/blob/master/Report.md)
 
+[Отчет по итогам автоматизации](https://github.com/meleuz/Diploma/blob/master/Summary.md)
+
 ### Запуск тестов:
 
 #### Работа с базой данных MySQl
